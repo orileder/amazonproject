@@ -174,7 +174,7 @@
   .container2 {
     width: 35%;
     height:430px;
-    background-image: url(../im1.jpg);
+    background-image: url(./im1.jpg);
     background-repeat: no-repeat;
     background-size: 70%;
     position: relative;
